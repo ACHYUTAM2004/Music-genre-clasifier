@@ -66,12 +66,12 @@ Streamlit - For building the web interface.
 TensorFlow - For loading and using the pre-trained model.
 Torch and Torchaudio - For audio processing.
 Librosa - For audio file manipulation and loading.
-
-## Streamlit link
-https://musicclasifier.streamlit.app/
 NumPy - For numerical computations.
 Plotly - For visualization of the pie chart.
 
 **For installing all dependencies use**
 bash
 pip install -r requirements.txt
+
+## Streamlit link
+https://musicclasifier.streamlit.app/
