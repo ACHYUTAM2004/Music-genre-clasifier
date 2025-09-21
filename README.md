@@ -75,3 +75,11 @@ pip install -r requirements.txt
 
 ## Streamlit link
 https://musicclasifier.streamlit.app/
+
+<img width="1919" height="878" alt="image" src="https://github.com/user-attachments/assets/34e7095f-3a36-47e9-b49c-00f9da1621f8" />
+
+<img width="1918" height="874" alt="image" src="https://github.com/user-attachments/assets/b0e53031-710f-45eb-9bba-d89efcc1c97d" />
+
+<img width="1919" height="870" alt="image" src="https://github.com/user-attachments/assets/17c8c72d-b4bc-40fb-b540-0a7427cf1d98" />
+
+<img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/e0e4cd51-7f2a-4ea4-b2b6-9a36a8883df7" />
