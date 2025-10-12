@@ -72,4 +72,11 @@ To run this application locally, please follow the instructions below.
 
 ---
 
-## 🔬 How
+## 🔬 How It Works
+
+This classifier leverages deep learning and digital signal processing to analyze audio and predict genres.
+
+1.  **Audio Processing:** The uploaded audio file is divided into overlapping chunks to capture various sections of the song.
+2.  **Feature Extraction:** Each audio chunk is converted into a **Mel Spectrogram** using `torchaudio`. The spectrogram is resized to a (210, 210) format to match the input dimensions expected by the model.
+3.  **Model Prediction**: The pre-trained TensorFlow model classifies each chunk into a genre. The final genre is determined by the most frequent prediction across all chunks.
+4.  **Visualization**: A Plotly pie chart displays the genre distribution, with the primary genre highlighted.
